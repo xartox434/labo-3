@@ -1,0 +1,32 @@
+table{
+
+    height: 300px;
+    width: 1000px;
+}
+
+table, td , tr, th{
+border-style: solid;
+border-width: 2px;
+    border-color: black;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+ body{
+
+    background-image: url("image/photo-1506104489822-562ca25152fe.jpg");
+    background-size: cover;
+
+    text-align: center;
+ }
+
+
+ h1{
+
+color: black;
+
+ }

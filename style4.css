@@ -1,0 +1,36 @@
+header{
+
+
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 3px;
+}
+img{
+width: 380px;
+padding: 0px;
+margin: 0px;
+
+}
+
+table,td,tr,th{
+
+    border-collapse: collapse;
+    margin: auto;
+    border: 3px black solid;
+    text-align: center;
+
+}
+
+table{
+
+    width: 750px;
+    margin: auto;
+    height: 450px;
+}
+
+body{
+
+    text-align: center;
+    background-color: crimson;
+}

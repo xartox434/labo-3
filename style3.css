@@ -9,6 +9,7 @@ border-collapse: collapse;
 border: 3px solid black;
 border-color: black;
 font-weight: bold;
+margin: auto;
 }
 
 .center {
